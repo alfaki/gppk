@@ -1,0 +1,6 @@
+read gpp.lp
+set timelimit 3600
+set mip tolerance mipgap 0.001
+optimize
+quit
+

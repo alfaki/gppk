@@ -1,0 +1,21 @@
+c Haverly2.dpp, Date: Wed Nov  9 15:32:07 2011
+c
+c The pooling problem data in DIMACS format.
+c
+p min 6 6 3 2 1
+c
+n 1 0.00 800.00 3.00
+n 2 0.00 800.00 1.00
+n 3 0.00 800.00 2.00
+n 4 800.00
+n 5 0.00 600.00 2.50
+n 6 0.00 200.00 1.50
+c
+a 1 4 6.00
+a 2 4 16.00
+a 3 5 1.00
+a 3 6 -5.00
+a 4 5 -9.00
+a 4 6 -15.00
+c
+c eof

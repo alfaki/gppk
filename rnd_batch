@@ -1,0 +1,7 @@
+#!/bin/bash
+while read name n ns nt nk p
+do
+./gppk -o rnd ${name} ${n} ${ns} ${nt} ${nk} ${p} 2
+echo "./gppk rnd ${name} ${n} ${ns} ${nt} ${nk} ${p} 2 `date`"
+done < rnd_inst.txt
+exit  

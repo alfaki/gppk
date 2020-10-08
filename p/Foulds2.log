@@ -1,0 +1,27 @@
+Starting Heuristic with p-model...
+
+Reading data from 'dpp/Foulds2.dpp'...
+The pooling network 'Foulds2' has 6 sources, 2 pools,
+4 terminals and 20 arcs with 1 quality.
+39 lines were read.
+Iteration  1:
+  Term  9, STAT  1, Obj = -200.000000
+  Term 10, STAT  1, Obj = -400.000000
+  Term 11, STAT  1, Obj = -100.000000
+  Term 12, STAT  1, Obj = -400.000000
+                                 SOL = -400.000000
+Iteration  2:
+  Term 12, STAT  2, Obj = -400.000000
+                                 SOL = -800.000000
+Iteration  3:
+  Term  9, STAT  2, Obj = -200.000000
+                                 SOL = -1000.000000
+Iteration  4:
+  Term 11, STAT  1, Obj = 0.000000
+
+===============================================
+Optimal solution found     =     -1000.000000
+Best objective value       =             -inf
+Relative gap               =              inf%
+Elapsed time (hh:mm:ss:ms) =      00:00:00:00
+===============================================

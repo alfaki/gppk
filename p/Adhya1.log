@@ -1,0 +1,26 @@
+Starting Heuristic with p-model...
+
+Reading data from 'dpp/Adhya1.dpp'...
+The pooling network 'Adhya1' has 5 sources, 2 pools,
+4 terminals and 13 arcs with 4 qualities.
+31 lines were read.
+Iteration  1:
+  Term  8, STAT  1, Obj = 0.000000
+  Term  9, STAT  1, Obj = -509.782609
+  Term 10, STAT  1, Obj = -277.727273
+  Term 11, STAT  1, Obj = -68.740741
+                                 SOL = -509.782609
+Iteration  2:
+  Term 10, STAT  1, Obj = 0.000000
+Iteration  3:
+  Term 11, STAT  2, Obj = -31.736778
+                                 SOL = -541.519387
+Iteration  4:
+  Term  8, STAT  1, Obj = 0.000000
+
+===============================================
+Optimal solution found     =      -541.519387
+Best objective value       =             -inf
+Relative gap               =              inf%
+Elapsed time (hh:mm:ss:ms) =      00:00:00:01
+===============================================

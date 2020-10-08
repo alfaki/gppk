@@ -1,0 +1,22 @@
+#!/bin/sh
+#!/bin/sh
+for ((i=0; i<10; i++))
+do<br>
+cp stdA$i.lp gpp.lp;
+./cplex < solvegpp;
+mv cplex.log stdA$i.log;
+done
+
+for ((i=0; i<6; i++))
+do<br>
+cp stdB$i.lp gpp.lp;
+./cplex < solvegpp;
+mv cplex.log stdB$i.log;
+done
+
+for ((i=0; i<4; i++))
+do<br>
+cp stdC$i.lp gpp.lp;
+./cplex < solvegpp;
+mv cplex.log stdC$i.log;
+done

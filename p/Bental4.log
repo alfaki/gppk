@@ -1,0 +1,19 @@
+Starting Heuristic with p-model...
+
+Reading data from 'dpp/Bental4.dpp'...
+The pooling network 'Bental4' has 4 sources, 1 pool,
+2 terminals and 7 arcs with 1 quality.
+21 lines were read.
+Iteration  1:
+  Term  6, STAT  1, Obj = -100.000000
+  Term  7, STAT  1, Obj = -450.000000
+                                 SOL = -450.000000
+Iteration  2:
+  Term  6, STAT  1, Obj = 0.000000
+
+===============================================
+Optimal solution found     =      -450.000000
+Best objective value       =             -inf
+Relative gap               =              inf%
+Elapsed time (hh:mm:ss:ms) =      00:00:00:00
+===============================================

@@ -1,0 +1,19 @@
+Starting Heuristic with p-model...
+
+Reading data from 'dpp/Haverly1.dpp'...
+The pooling network 'Haverly1' has 3 sources, 1 pool,
+2 terminals and 6 arcs with 1 quality.
+19 lines were read.
+Iteration  1:
+  Term  5, STAT  1, Obj = -100.000000
+  Term  6, STAT  1, Obj = -400.000000
+                                 SOL = -400.000000
+Iteration  2:
+  Term  5, STAT  1, Obj = 0.000000
+
+===============================================
+Optimal solution found     =      -400.000000
+Best objective value       =             -inf
+Relative gap               =              inf%
+Elapsed time (hh:mm:ss:ms) =      00:00:00:00
+===============================================

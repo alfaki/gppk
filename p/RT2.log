@@ -1,0 +1,22 @@
+Starting Heuristic with p-model...
+
+Reading data from 'dpp/RT2.dpp'...
+The pooling network 'RT2' has 3 sources, 2 pools,
+3 terminals and 16 arcs with 8 qualities.
+31 lines were read.
+Iteration  1:
+  Term  6, STAT  1, Obj = -6697.662291
+  Term  7, STAT  1, Obj = -671.600000
+  Term  8, STAT  1, Obj = -4784.000000
+                                 SOL = -6697.662291
+Iteration  2:
+  Term  8, STAT 19, Obj = 0.000000
+Iteration  3:
+  Term  7, STAT 19, Obj = 0.000000
+
+===============================================
+Optimal solution found     =     -6697.662291
+Best objective value       =             -inf
+Relative gap               =              inf%
+Elapsed time (hh:mm:ss:ms) =      00:00:00:00
+===============================================

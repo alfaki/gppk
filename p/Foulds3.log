@@ -1,0 +1,76 @@
+Starting Heuristic with p-model...
+
+Reading data from 'dpp/Foulds3.dpp'...
+The pooling network 'Foulds3' has 11 sources, 8 pools,
+16 terminals and 160 arcs with 1 quality.
+202 lines were read.
+Iteration  1:
+  Term 20, STAT  1, Obj = -0.500000
+  Term 21, STAT  1, Obj = -0.500000
+  Term 22, STAT  1, Obj = -0.500000
+  Term 23, STAT  1, Obj = -0.500000
+  Term 24, STAT  1, Obj = -0.500000
+  Term 25, STAT  1, Obj = -0.500000
+  Term 26, STAT  1, Obj = -0.500000
+  Term 27, STAT  1, Obj = -0.500000
+  Term 28, STAT  1, Obj = -0.500000
+  Term 29, STAT  1, Obj = -0.500000
+  Term 30, STAT  1, Obj = -0.500000
+  Term 31, STAT  1, Obj = -0.500000
+  Term 32, STAT  1, Obj = -0.500000
+  Term 33, STAT  1, Obj = -0.500000
+  Term 34, STAT  1, Obj = -0.500000
+  Term 35, STAT  1, Obj = -0.500000
+                                 SOL = -0.500000
+Iteration  2:
+  Term 20, STAT  2, Obj = -0.500001
+                                 SOL = -1.000001
+Iteration  3:
+  Term 21, STAT  2, Obj = -0.500075
+                                 SOL = -1.500077
+Iteration  4:
+  Term 22, STAT  2, Obj = -0.500149
+                                 SOL = -2.000226
+Iteration  5:
+  Term 23, STAT  2, Obj = -0.499881
+                                 SOL = -2.500107
+Iteration  6:
+  Term 24, STAT  2, Obj = -0.500165
+                                 SOL = -3.000272
+Iteration  7:
+  Term 25, STAT  2, Obj = -0.499786
+                                 SOL = -3.500058
+Iteration  8:
+  Term 26, STAT  2, Obj = -0.500182
+                                 SOL = -4.000240
+Iteration  9:
+  Term 27, STAT  2, Obj = -0.499955
+                                 SOL = -4.500196
+Iteration 10:
+  Term 28, STAT  2, Obj = -0.500088
+                                 SOL = -5.000283
+Iteration 11:
+  Term 29, STAT  2, Obj = -0.500058
+                                 SOL = -5.500341
+Iteration 12:
+  Term 31, STAT  2, Obj = -0.499987
+                                 SOL = -6.000328
+Iteration 13:
+  Term 33, STAT  2, Obj = -0.499930
+                                 SOL = -6.500258
+Iteration 14:
+  Term 35, STAT  2, Obj = -0.500131
+                                 SOL = -7.000389
+Iteration 15:
+  Term 30, STAT  2, Obj = -0.499971
+                                 SOL = -7.500360
+Iteration 16:
+  Term 32, STAT  2, Obj = -0.499960
+                                 SOL = -8.000321
+
+===============================================
+Optimal solution found     =        -8.000321
+Best objective value       =             -inf
+Relative gap               =              inf%
+Elapsed time (hh:mm:ss:ms) =      00:00:00:03
+===============================================
